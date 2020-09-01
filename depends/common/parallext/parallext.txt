@@ -1,0 +1,1 @@
+parallext https://github.com/libretro/parallext/archive/41567a669252e7af3dcaf75616dc83ec0a11847f.zip
