@@ -18,6 +18,6 @@
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.parallext</source>
 		<summary lang="en_GB">Nintendo - Nintendo 64 (ParaLLEl N64) 0.2</summary>
-		<description lang="en_GB">ParaLLeXT is a forked version of ParaLLEl N64, a Nintendo 64 emulator made specifically for Libretro.</description>
+		<description lang="en_GB">ParaLLeXT is a forked version of ParaLLEl N64.Supported files: .n64, .v64, .z64, .bin, .u1, .ndd</description>
 	</extension>
 </addon>
