@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.parallext"
 		name="Nintendo - Nintendo 64 (ParaLLEl N64)"
-		version="0.2.0.10"
+		version="0.2.0.11"
 		provider-name="Hacktarux, Mupen64Plus Team, TinyTiger, Libretro">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -18,6 +18,9 @@
 		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.parallext</source>
+		<assets>
+			<icon>resources/icon.png</icon>
+		</assets>
 		<summary lang="en_GB">Nintendo - Nintendo 64 (ParaLLEl N64) 0.2</summary>
 		<description lang="da_DK">ParaLLeXT er en fork af ParaLLEl N64, en Nintendo 64-emulator lavet specielt til Libretro.</description>
 		<description lang="en_GB">ParaLLeXT is a forked version of ParaLLEl N64, a Nintendo 64 emulator made specifically for Libretro.</description>
