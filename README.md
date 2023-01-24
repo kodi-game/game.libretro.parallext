@@ -13,7 +13,7 @@ GPLv2
 
 ### Icon
 
-![Icon](game.libretro.parallext/resources/icon.png)
+![Nintendo - Nintendo 64 (ParaLLEl N64) icon](game.libretro.parallext/resources/icon.png)
 
 ### Fanart
 
