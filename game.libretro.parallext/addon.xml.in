@@ -24,6 +24,7 @@
 		<summary lang="en_GB">Nintendo - Nintendo 64 (ParaLLEl N64) 0.2</summary>
 		<description lang="da_DK">ParaLLeXT er en fork af ParaLLEl N64, en Nintendo 64-emulator lavet specielt til Libretro.</description>
 		<description lang="en_GB">ParaLLeXT is a forked version of ParaLLEl N64, a Nintendo 64 emulator made specifically for Libretro.</description>
+		<description lang="es_ES">ParaLLeXT es una versión derivada de ParaLLEl N64, un emulador de Nintendo 64 hecho específicamente para Libretro.</description>
 		<description lang="zh_CN">ParaLLeXT 是 ParaLLEl N64 的分叉版本，是一款专门为 Libretro 开发的任天堂64模拟器。</description>
 	</extension>
 </addon>
