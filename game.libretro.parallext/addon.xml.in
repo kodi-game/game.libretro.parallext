@@ -21,6 +21,7 @@
 		<assets>
 			<icon>resources/icon.png</icon>
 		</assets>
+		<summary lang="da_DK">Nintendo - Nintendo 64 (ParaLLEl N64)</summary>
 		<summary lang="en_GB">Nintendo - Nintendo 64 (ParaLLEl N64)</summary>
 		<summary lang="es_ES">Nintendo - Nintendo 64 (ParaLLEl N64)</summary>
 		<description lang="da_DK">ParaLLeXT er en fork af ParaLLEl N64, en Nintendo 64-emulator lavet specielt til Libretro.</description>
