@@ -209,14 +209,6 @@ msgctxt "#30045"
 msgid "Use enhanced Hi-Res Storage"
 msgstr ""
 
-msgctxt "#30046"
-msgid "Framerate"
-msgstr ""
-
-msgctxt "#30047"
-msgid "VI Refresh (Overclock)"
-msgstr ""
-
 msgctxt "#30048"
 msgid "Analog Deadzone (percent)"
 msgstr ""

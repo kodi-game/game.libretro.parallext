@@ -209,14 +209,6 @@ msgctxt "#30045"
 msgid "Use enhanced Hi-Res Storage"
 msgstr "Erweiterte Hi-Res-Speicherung verwenden"
 
-msgctxt "#30046"
-msgid "Framerate"
-msgstr "Framerate"
-
-msgctxt "#30047"
-msgid "VI Refresh (Overclock)"
-msgstr "VI-Aktualisierung (Übertaktung)"
-
 msgctxt "#30048"
 msgid "Analog Deadzone (percent)"
 msgstr "Analoge Deadzone (Prozent)"
@@ -244,3 +236,11 @@ msgstr "Spieler 4 Pak"
 msgctxt "#30054"
 msgid "Count Per Op"
 msgstr ""
+
+#~ msgctxt "#30046"
+#~ msgid "Framerate"
+#~ msgstr "Framerate"
+
+#~ msgctxt "#30047"
+#~ msgid "VI Refresh (Overclock)"
+#~ msgstr "VI-Aktualisierung (Übertaktung)"

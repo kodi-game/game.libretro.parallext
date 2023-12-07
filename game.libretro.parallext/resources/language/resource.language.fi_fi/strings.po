@@ -209,14 +209,6 @@ msgctxt "#30045"
 msgid "Use enhanced Hi-Res Storage"
 msgstr "Käytä parannettua korkearesoluutioista tallennusta"
 
-msgctxt "#30046"
-msgid "Framerate"
-msgstr ""
-
-msgctxt "#30047"
-msgid "VI Refresh (Overclock)"
-msgstr "VI-päivitys (ylikellotus)"
-
 msgctxt "#30048"
 msgid "Analog Deadzone (percent)"
 msgstr "Analoginen kuollut alue (prosenttia)"
@@ -244,3 +236,7 @@ msgstr "Pelaaja 4 Pak"
 msgctxt "#30054"
 msgid "Count Per Op"
 msgstr ""
+
+#~ msgctxt "#30047"
+#~ msgid "VI Refresh (Overclock)"
+#~ msgstr "VI-päivitys (ylikellotus)"

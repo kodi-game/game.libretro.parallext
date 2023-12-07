@@ -209,14 +209,6 @@ msgctxt "#30045"
 msgid "Use enhanced Hi-Res Storage"
 msgstr "Usar Almacenamiento de Alta Resolución mejorado"
 
-msgctxt "#30046"
-msgid "Framerate"
-msgstr "Tasa de Fotogramas"
-
-msgctxt "#30047"
-msgid "VI Refresh (Overclock)"
-msgstr "Refresco VI (overclock)"
-
 msgctxt "#30048"
 msgid "Analog Deadzone (percent)"
 msgstr "Zona Muerta Analógica (porcentaje)"
@@ -244,3 +236,11 @@ msgstr "Pak Jugador 4"
 msgctxt "#30054"
 msgid "Count Per Op"
 msgstr "Recuento Por Op"
+
+#~ msgctxt "#30046"
+#~ msgid "Framerate"
+#~ msgstr "Tasa de Fotogramas"
+
+#~ msgctxt "#30047"
+#~ msgid "VI Refresh (Overclock)"
+#~ msgstr "Refresco VI (overclock)"

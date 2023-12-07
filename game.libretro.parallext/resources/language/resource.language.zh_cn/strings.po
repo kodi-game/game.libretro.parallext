@@ -209,14 +209,6 @@ msgctxt "#30045"
 msgid "Use enhanced Hi-Res Storage"
 msgstr "使用增强的高分辨率存储"
 
-msgctxt "#30046"
-msgid "Framerate"
-msgstr "帧速"
-
-msgctxt "#30047"
-msgid "VI Refresh (Overclock)"
-msgstr "VI 刷新（超频）"
-
 msgctxt "#30048"
 msgid "Analog Deadzone (percent)"
 msgstr "模拟死区（百分比）"
@@ -244,3 +236,11 @@ msgstr "玩家4 Pak"
 msgctxt "#30054"
 msgid "Count Per Op"
 msgstr "每次操作的计数"
+
+#~ msgctxt "#30046"
+#~ msgid "Framerate"
+#~ msgstr "帧速"
+
+#~ msgctxt "#30047"
+#~ msgid "VI Refresh (Overclock)"
+#~ msgstr "VI 刷新（超频）"
