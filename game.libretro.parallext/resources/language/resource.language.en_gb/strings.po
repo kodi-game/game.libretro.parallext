@@ -92,14 +92,6 @@ msgctxt "#30016"
 msgid "Framerate"
 msgstr ""
 
-msgctxt "#30016"
-msgid "Framerate"
-msgstr ""
-
-msgctxt "#30017"
-msgid "VI Refresh (Overclock)"
-msgstr ""
-
 msgctxt "#30017"
 msgid "VI Refresh (Overclock)"
 msgstr ""
@@ -214,6 +206,14 @@ msgstr ""
 
 msgctxt "#30045"
 msgid "Use enhanced Hi-Res Storage"
+msgstr ""
+
+msgctxt "#30046"
+msgid "Framerate"
+msgstr ""
+
+msgctxt "#30047"
+msgid "VI Refresh (Overclock)"
 msgstr ""
 
 msgctxt "#30048"
