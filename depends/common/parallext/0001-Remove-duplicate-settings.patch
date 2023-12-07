@@ -1,0 +1,27 @@
+From 7498cc86c7df97b92378628e520b168d395b4c55 Mon Sep 17 00:00:00 2001
+From: Garrett Brown <themagnificentmrb@gmail.com>
+Date: Wed, 6 Dec 2023 16:53:29 -0800
+Subject: [PATCH] Remove duplicate settings
+
+---
+ libretro/libretro.c | 4 ----
+ 1 file changed, 4 deletions(-)
+
+diff --git a/libretro/libretro.c b/libretro/libretro.c
+index 496945f..a8f2a33 100644
+--- a/libretro/libretro.c
++++ b/libretro/libretro.c
+@@ -676,10 +676,6 @@ static void setup_variables(void)
+             "Use enhanced Texture Storage; False|True" },
+         { CORE_NAME "-EnableEnhancedHighResStorage",
+             "Use enhanced Hi-Res Storage; False|True" },
+-	{ "mupen64plus-Framerate",
+-		"Framerate; Original|Fullspeed" },
+-	{ "mupen64plus-virefresh",
+-		"VI Refresh (Overclock); Auto|1500|2200" },
+ 	{ "mupen64plus-astick-deadzone",
+ 	   "Analog Deadzone (percent); 15|20|25|30|0|5|10" },
+ 	{ "mupen64plus-astick-sensitivity",
+-- 
+2.34.1
+
