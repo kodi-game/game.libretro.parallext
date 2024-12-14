@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "ParaLLeXT is a forked version of ParaLLEl N64, a Nintendo 64 emulator made specifically for Libretro."
 msgstr "ParaLLeXT 是 ParaLLEl N64 的分叉版本，是一款专门为 Libretro 开发的任天堂64模拟器。"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "设置"
-
 msgctxt "#30001"
 msgid "CPU Core"
 msgstr "CPU 核"
@@ -236,6 +232,10 @@ msgstr "玩家4 Pak"
 msgctxt "#30054"
 msgid "Count Per Op"
 msgstr "每次操作的计数"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "设置"
 
 #~ msgctxt "#30046"
 #~ msgid "Framerate"
