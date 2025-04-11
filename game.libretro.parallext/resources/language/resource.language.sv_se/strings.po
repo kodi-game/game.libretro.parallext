@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.parallext\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2020-09-01 21:12i\n"
-"PO-Revision-Date: 2025-04-08 15:13+0000\n"
+"PO-Revision-Date: 2025-04-11 09:05+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-parallext/sv_se/>\n"
 "Language: sv_se\n"
@@ -27,7 +27,7 @@ msgstr "ParaLLeXT är en förgrenad version av ParaLLEl N64, en Nintendo 64-emul
 
 msgctxt "#30001"
 msgid "CPU Core"
-msgstr ""
+msgstr "CPU-kärna"
 
 msgctxt "#30002"
 msgid "Graphics accuracy"
