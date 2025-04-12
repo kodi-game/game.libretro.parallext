@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.parallext\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2020-09-01 21:12i\n"
-"PO-Revision-Date: 2025-04-11 09:05+0000\n"
+"PO-Revision-Date: 2025-04-12 12:26+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-parallext/sv_se/>\n"
 "Language: sv_se\n"
@@ -87,7 +87,7 @@ msgstr ""
 
 msgctxt "#30016"
 msgid "Framerate"
-msgstr ""
+msgstr "Bildfrekvens"
 
 msgctxt "#30017"
 msgid "VI Refresh (Overclock)"
@@ -201,9 +201,10 @@ msgctxt "#30044"
 msgid "Use enhanced Texture Storage"
 msgstr ""
 
+#, fuzzy
 msgctxt "#30045"
 msgid "Use enhanced Hi-Res Storage"
-msgstr ""
+msgstr "Använd förbättrad Hi-Res-lagring"
 
 msgctxt "#30048"
 msgid "Analog Deadzone (percent)"
@@ -229,9 +230,10 @@ msgctxt "#30053"
 msgid "Player 4 Pak"
 msgstr ""
 
+#, fuzzy
 msgctxt "#30054"
 msgid "Count Per Op"
-msgstr ""
+msgstr "Antal per operation"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
