@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.parallext\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2020-09-01 21:12i\n"
-"PO-Revision-Date: 2025-04-14 08:16+0000\n"
+"PO-Revision-Date: 2025-04-17 04:26+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-parallext/sv_se/>\n"
 "Language: sv_se\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.4\n"
+"X-Generator: Weblate 5.11\n"
 
 msgctxt "Addon Summary"
 msgid "Nintendo - Nintendo 64 (ParaLLEl N64)"
@@ -33,173 +33,196 @@ msgctxt "#30002"
 msgid "Graphics accuracy"
 msgstr "Grafiknoggrannhet"
 
+#, fuzzy
 msgctxt "#30003"
 msgid "LLE RSP Plugin"
-msgstr ""
+msgstr "LLE RSP Plugin"
 
 msgctxt "#30004"
 msgid "Dithering"
-msgstr ""
+msgstr "Dithering"
 
 msgctxt "#30005"
 msgid "(Angrylion) VI Overlay"
-msgstr ""
+msgstr "(Angrylion) VI-överlagring"
 
 msgctxt "#30006"
 msgid "(Angrylion) Multi-threading"
-msgstr ""
+msgstr "(Angrylion) Multitrådning"
 
 msgctxt "#30007"
 msgid "(Angrylion) Hide overscan"
-msgstr ""
+msgstr "(Angrylion) Dölj överskanning"
 
 msgctxt "#30008"
 msgid "(Angrylion) Thread sync level"
-msgstr ""
+msgstr "(Angrylion) Synkroniseringsnivå för tråd"
 
 msgctxt "#30009"
 msgid "4:3 Resolution (restart)"
-msgstr ""
+msgstr "4:3 Upplösning (omstart)"
 
 msgctxt "#30010"
 msgid "16:9 Resolution"
-msgstr ""
+msgstr "16:9 Upplösning"
 
 msgctxt "#30011"
 msgid "Aspect Ratio"
-msgstr ""
+msgstr "Bildförhållande"
 
 msgctxt "#30012"
 msgid "Bilinear filtering mode"
-msgstr ""
+msgstr "Bilinjärt filtreringsläge"
 
 msgctxt "#30013"
 msgid "MSAA level"
-msgstr ""
+msgstr "MSAA-nivå"
 
 msgctxt "#30014"
 msgid "FXAA"
-msgstr ""
+msgstr "FXAA"
 
+#, fuzzy
 msgctxt "#30015"
 msgid "Frame Duplication"
-msgstr ""
+msgstr "Duplicering av ramar"
 
 msgctxt "#30016"
 msgid "Framerate"
 msgstr "Bildfrekvens"
 
+#, fuzzy
 msgctxt "#30017"
 msgid "VI Refresh (Overclock)"
-msgstr ""
+msgstr "VI Uppdatering (överklockning)"
 
+#, fuzzy
 msgctxt "#30018"
 msgid "Noise Emulation"
-msgstr ""
+msgstr "Emulering av buller"
 
+#, fuzzy
 msgctxt "#30019"
 msgid "Framebuffer Emulation"
-msgstr ""
+msgstr "Emulering av framebuffert"
 
 msgctxt "#30020"
 msgid "LOD Emulation"
-msgstr ""
+msgstr "LOD-emulering"
 
 msgctxt "#30021"
 msgid "Color buffer to RDRAM"
-msgstr ""
+msgstr "Färgbuffert till RDRAM"
 
+#, fuzzy
 msgctxt "#30022"
 msgid "Depth buffer to RDRAM"
-msgstr ""
+msgstr "Djupbuffert till RDRAM"
 
 msgctxt "#30023"
 msgid "Background Mode"
-msgstr ""
+msgstr "Bakgrundsläge"
 
+#, fuzzy
 msgctxt "#30024"
 msgid "Hardware per-pixel lighting"
-msgstr ""
+msgstr "Hårdvara för per-pixel-belysning"
 
+#, fuzzy
 msgctxt "#30025"
 msgid "Continuous texrect coords"
-msgstr ""
+msgstr "Kontinuerliga texrect-koordinater"
 
+#, fuzzy
 msgctxt "#30026"
 msgid "Native res. 2D texrects"
-msgstr ""
+msgstr "Ursprunglig res. 2D-texter"
 
+#, fuzzy
 msgctxt "#30027"
 msgid "Less accurate blending mode"
-msgstr ""
+msgstr "Mindre exakt blandningsläge"
 
+#, fuzzy
 msgctxt "#30028"
 msgid "GPU shader depth write"
-msgstr ""
+msgstr "Skrivning av GPU-shaderdjup"
 
 msgctxt "#30029"
 msgid "N64 Depth Compare"
-msgstr ""
+msgstr "N64 djupjämförelse"
 
+#, fuzzy
 msgctxt "#30030"
 msgid "Cache GPU Shaders"
-msgstr ""
+msgstr "Cache GPU-shaders"
 
+#, fuzzy
 msgctxt "#30031"
 msgid "Cache Textures"
-msgstr ""
+msgstr "Cache-texturer"
 
 msgctxt "#30032"
 msgid "Overscan"
-msgstr ""
+msgstr "Överskanning"
 
+#, fuzzy
 msgctxt "#30033"
 msgid "Overscan Offset (Top)"
-msgstr ""
+msgstr "Offset för överskanning (topp)"
 
+#, fuzzy
 msgctxt "#30034"
 msgid "Overscan Offset (Left)"
-msgstr ""
+msgstr "Offset för överskanning (vänster)"
 
+#, fuzzy
 msgctxt "#30035"
 msgid "Overscan Offset (Right)"
-msgstr ""
+msgstr "Offset för överskanning (höger)"
 
+#, fuzzy
 msgctxt "#30036"
 msgid "Overscan Offset (Bottom)"
-msgstr ""
+msgstr "Offset för överskanning (botten)"
 
+#, fuzzy
 msgctxt "#30037"
 msgid "Max texture cache size"
-msgstr ""
+msgstr "Maximal storlek på texturcache"
 
 msgctxt "#30038"
 msgid "Texture filter"
-msgstr ""
+msgstr "Texturfilter"
 
 msgctxt "#30039"
 msgid "Texture Enhancement"
-msgstr ""
+msgstr "Förbättring av textur"
 
+#, fuzzy
 msgctxt "#30040"
 msgid "Filter background textures"
-msgstr ""
+msgstr "Filtrera bakgrundstexturer"
 
+#, fuzzy
 msgctxt "#30041"
 msgid "Use High-Res textures"
-msgstr ""
+msgstr "Använd högupplösta texturer"
 
+#, fuzzy
 msgctxt "#30042"
 msgid "Use High-Res Texture Cache Compression"
-msgstr ""
+msgstr "Använd komprimering av texturcache för högupplösta bilder"
 
+#, fuzzy
 msgctxt "#30043"
 msgid "Use High-Res Full Alpha Channel"
-msgstr ""
+msgstr "Använd full alfakanal i högupplöst format"
 
+#, fuzzy
 msgctxt "#30044"
 msgid "Use enhanced Texture Storage"
-msgstr ""
+msgstr "Använd förbättrad texturlagring"
 
 #, fuzzy
 msgctxt "#30045"
@@ -208,27 +231,31 @@ msgstr "Använd förbättrad Hi-Res-lagring"
 
 msgctxt "#30048"
 msgid "Analog Deadzone (percent)"
-msgstr ""
+msgstr "Analog dödzon (procent)"
 
 msgctxt "#30049"
 msgid "Analog Sensitivity (percent)"
-msgstr ""
+msgstr "Analog känslighet (procent)"
 
+#, fuzzy
 msgctxt "#30050"
 msgid "Player 1 Pak"
-msgstr ""
+msgstr "Spelare 1 Pak"
 
+#, fuzzy
 msgctxt "#30051"
 msgid "Player 2 Pak"
-msgstr ""
+msgstr "Spelare 2 Pak"
 
+#, fuzzy
 msgctxt "#30052"
 msgid "Player 3 Pak"
-msgstr ""
+msgstr "Spelare 3 Pak"
 
+#, fuzzy
 msgctxt "#30053"
 msgid "Player 4 Pak"
-msgstr ""
+msgstr "Spelare 4 Pak"
 
 #, fuzzy
 msgctxt "#30054"
