@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.parallext\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2020-09-01 21:12i\n"
-"PO-Revision-Date: 2026-08-15 22:09+0000\n"
+"PO-Revision-Date: 2026-08-22 00:08+0000\n"
 "Last-Translator: Massimo Pissarello <mapi68@gmail.com>\n"
 "Language-Team: Italian <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-parallext/it_it/>\n"
 "Language: it_it\n"
@@ -19,51 +19,51 @@ msgstr ""
 
 msgctxt "Addon Summary"
 msgid "Nintendo - Nintendo 64 (ParaLLEl N64)"
-msgstr ""
+msgstr "Nintendo - Nintendo 64 (ParaLLEl N64)"
 
 msgctxt "Addon Description"
 msgid "ParaLLeXT is a forked version of ParaLLEl N64, a Nintendo 64 emulator made specifically for Libretro."
-msgstr ""
+msgstr "ParaLLeXT è una versione derivata (fork) di ParaLLEl N64, un emulatore Nintendo 64 realizzato appositamente per Libretro."
 
 msgctxt "#30001"
 msgid "CPU Core"
-msgstr ""
+msgstr "Core CPU"
 
 msgctxt "#30002"
 msgid "Graphics accuracy"
-msgstr ""
+msgstr "Accuratezza grafica"
 
 msgctxt "#30003"
 msgid "LLE RSP Plugin"
-msgstr ""
+msgstr "Plugin RSP LLE"
 
 msgctxt "#30004"
 msgid "Dithering"
-msgstr ""
+msgstr "Dithering"
 
 msgctxt "#30005"
 msgid "(Angrylion) VI Overlay"
-msgstr ""
+msgstr "(Angrylion) Overlay VI"
 
 msgctxt "#30006"
 msgid "(Angrylion) Multi-threading"
-msgstr ""
+msgstr "(Angrylion) Multithreading"
 
 msgctxt "#30007"
 msgid "(Angrylion) Hide overscan"
-msgstr ""
+msgstr "(Angrylion) Nascondi overscan"
 
 msgctxt "#30008"
 msgid "(Angrylion) Thread sync level"
-msgstr ""
+msgstr "(Angrylion) Livello sincronizzazione thread"
 
 msgctxt "#30009"
 msgid "4:3 Resolution (restart)"
-msgstr ""
+msgstr "Risoluzione 4:3 (richiede riavvio)"
 
 msgctxt "#30010"
 msgid "16:9 Resolution"
-msgstr ""
+msgstr "Risoluzione 16:9"
 
 msgctxt "#30011"
 msgid "Aspect Ratio"
@@ -71,19 +71,19 @@ msgstr "Proporzioni"
 
 msgctxt "#30012"
 msgid "Bilinear filtering mode"
-msgstr ""
+msgstr "Modalità filtro bilineare"
 
 msgctxt "#30013"
 msgid "MSAA level"
-msgstr ""
+msgstr "Livello MSAA"
 
 msgctxt "#30014"
 msgid "FXAA"
-msgstr ""
+msgstr "FXAA"
 
 msgctxt "#30015"
 msgid "Frame Duplication"
-msgstr ""
+msgstr "Duplicazione fotogrammi"
 
 msgctxt "#30016"
 msgid "Framerate"
@@ -91,63 +91,63 @@ msgstr "Framerate"
 
 msgctxt "#30017"
 msgid "VI Refresh (Overclock)"
-msgstr ""
+msgstr "Aggiornamento VI (overclock)"
 
 msgctxt "#30018"
 msgid "Noise Emulation"
-msgstr ""
+msgstr "Emulazione rumore"
 
 msgctxt "#30019"
 msgid "Framebuffer Emulation"
-msgstr ""
+msgstr "Emulazione framebuffer"
 
 msgctxt "#30020"
 msgid "LOD Emulation"
-msgstr ""
+msgstr "Emulazione LOD"
 
 msgctxt "#30021"
 msgid "Color buffer to RDRAM"
-msgstr ""
+msgstr "Buffer colore su RDRAM"
 
 msgctxt "#30022"
 msgid "Depth buffer to RDRAM"
-msgstr ""
+msgstr "Buffer profondità su RDRAM"
 
 msgctxt "#30023"
 msgid "Background Mode"
-msgstr ""
+msgstr "Modalità sfondo"
 
 msgctxt "#30024"
 msgid "Hardware per-pixel lighting"
-msgstr ""
+msgstr "Illuminazione per pixel hardware"
 
 msgctxt "#30025"
 msgid "Continuous texrect coords"
-msgstr ""
+msgstr "Coordinate texrect continue"
 
 msgctxt "#30026"
 msgid "Native res. 2D texrects"
-msgstr ""
+msgstr "Texrect 2D a risoluzione nativa"
 
 msgctxt "#30027"
 msgid "Less accurate blending mode"
-msgstr ""
+msgstr "Modalità fusione meno accurata"
 
 msgctxt "#30028"
 msgid "GPU shader depth write"
-msgstr ""
+msgstr "Scrittura profondità shader GPU"
 
 msgctxt "#30029"
 msgid "N64 Depth Compare"
-msgstr ""
+msgstr "Confronto profondità N64"
 
 msgctxt "#30030"
 msgid "Cache GPU Shaders"
-msgstr ""
+msgstr "Memorizza in cache gli shader GPU"
 
 msgctxt "#30031"
 msgid "Cache Textures"
-msgstr ""
+msgstr "Memorizza in cache le texture"
 
 msgctxt "#30032"
 msgid "Overscan"
@@ -155,51 +155,51 @@ msgstr "Overscan"
 
 msgctxt "#30033"
 msgid "Overscan Offset (Top)"
-msgstr ""
+msgstr "Offset overscan (Alto)"
 
 msgctxt "#30034"
 msgid "Overscan Offset (Left)"
-msgstr ""
+msgstr "Offset overscan (Sinistra)"
 
 msgctxt "#30035"
 msgid "Overscan Offset (Right)"
-msgstr ""
+msgstr "Offset overscan (Destra)"
 
 msgctxt "#30036"
 msgid "Overscan Offset (Bottom)"
-msgstr ""
+msgstr "Offset overscan (Basso)"
 
 msgctxt "#30037"
 msgid "Max texture cache size"
-msgstr ""
+msgstr "Dimensione massima cache texture"
 
 msgctxt "#30038"
 msgid "Texture filter"
-msgstr ""
+msgstr "Filtro texture"
 
 msgctxt "#30039"
 msgid "Texture Enhancement"
-msgstr ""
+msgstr "Miglioramento texture"
 
 msgctxt "#30040"
 msgid "Filter background textures"
-msgstr ""
+msgstr "Filtra texture di sfondo"
 
 msgctxt "#30041"
 msgid "Use High-Res textures"
-msgstr ""
+msgstr "Usa texture ad alta risoluzione"
 
 msgctxt "#30042"
 msgid "Use High-Res Texture Cache Compression"
-msgstr ""
+msgstr "Usa compressione cache texture ad alta risoluzione"
 
 msgctxt "#30043"
 msgid "Use High-Res Full Alpha Channel"
-msgstr ""
+msgstr "Usa canale alfa completo ad alta risoluzione"
 
 msgctxt "#30044"
 msgid "Use enhanced Texture Storage"
-msgstr ""
+msgstr "Usa archiviazione texture avanzata"
 
 msgctxt "#30045"
 msgid "Use enhanced Hi-Res Storage"
@@ -211,23 +211,23 @@ msgstr "Zona morta analogica (percentuale)"
 
 msgctxt "#30049"
 msgid "Analog Sensitivity (percent)"
-msgstr ""
+msgstr "Sensibilità analogica (percentuale)"
 
 msgctxt "#30050"
 msgid "Player 1 Pak"
-msgstr ""
+msgstr "Pak giocatore 1"
 
 msgctxt "#30051"
 msgid "Player 2 Pak"
-msgstr ""
+msgstr "Pak giocatore 2"
 
 msgctxt "#30052"
 msgid "Player 3 Pak"
-msgstr ""
+msgstr "Pak giocatore 3"
 
 msgctxt "#30053"
 msgid "Player 4 Pak"
-msgstr ""
+msgstr "Pak giocatore 4"
 
 msgctxt "#30054"
 msgid "Count Per Op"
