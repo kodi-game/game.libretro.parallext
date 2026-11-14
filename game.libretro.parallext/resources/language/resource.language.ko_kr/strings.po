@@ -233,6 +233,126 @@ msgctxt "#30054"
 msgid "Count Per Op"
 msgstr ""
 
+msgctxt "#30055"
+msgid "1500"
+msgstr ""
+
+msgctxt "#30056"
+msgid "2200"
+msgstr ""
+
+msgctxt "#30057"
+msgid "Async"
+msgstr ""
+
+msgctxt "#30058"
+msgid "Sync"
+msgstr ""
+
+msgctxt "#30059"
+msgid "Software"
+msgstr ""
+
+msgctxt "#30060"
+msgid "FromMem"
+msgstr ""
+
+msgctxt "#30061"
+msgid "Force"
+msgstr ""
+
+msgctxt "#30062"
+msgid "Optimized"
+msgstr ""
+
+msgctxt "#30063"
+msgid "Unoptimized"
+msgstr ""
+
+msgctxt "#30064"
+msgid "Smooth filtering 1"
+msgstr ""
+
+msgctxt "#30065"
+msgid "Smooth filtering 2"
+msgstr ""
+
+msgctxt "#30066"
+msgid "Smooth filtering 3"
+msgstr ""
+
+msgctxt "#30067"
+msgid "Smooth filtering 4"
+msgstr ""
+
+msgctxt "#30068"
+msgid "Sharp filtering 1"
+msgstr ""
+
+msgctxt "#30069"
+msgid "Sharp filtering 2"
+msgstr ""
+
+msgctxt "#30070"
+msgid "As Is"
+msgstr ""
+
+msgctxt "#30071"
+msgid "X2"
+msgstr ""
+
+msgctxt "#30072"
+msgid "X2SAI"
+msgstr ""
+
+msgctxt "#30073"
+msgid "HQ2X"
+msgstr ""
+
+msgctxt "#30074"
+msgid "HQ2XS"
+msgstr ""
+
+msgctxt "#30075"
+msgid "LQ2X"
+msgstr ""
+
+msgctxt "#30076"
+msgid "LQ2XS"
+msgstr ""
+
+msgctxt "#30077"
+msgid "HQ4X"
+msgstr ""
+
+msgctxt "#30078"
+msgid "2xBRZ"
+msgstr ""
+
+msgctxt "#30079"
+msgid "3xBRZ"
+msgstr ""
+
+msgctxt "#30080"
+msgid "4xBRZ"
+msgstr ""
+
+msgctxt "#30081"
+msgid "5xBRZ"
+msgstr ""
+
+msgctxt "#30082"
+msgid "6xBRZ"
+msgstr ""
+
+msgctxt "#30083"
+msgid "memory"
+msgstr ""
+
+msgctxt "#30084"
+msgid "rumble"
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "설정"
