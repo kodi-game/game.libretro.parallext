@@ -1,0 +1,29 @@
+From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From: Kel Modderman <kelvmod@gmail.com>
+Date: Sat, 14 Nov 2026 21:42:53 +1000
+Subject: [PATCH] Build with -fcommon on unix
+
+work, gfx_plugin, DMEM and IMEM are each defined twice, which links only
+with -fcommon now that GCC 10 and newer default to -fno-common. The webOS
+build already does this.
+---
+ Makefile | 3 +++
+ 1 file changed, 3 insertions(+)
+
+diff --git a/Makefile b/Makefile
+index e11ef50..8267962 100644
+--- a/Makefile
++++ b/Makefile
+@@ -114,6 +114,9 @@ ifneq (,$(findstring unix,$(platform)))
+    endif
+ 
+    COREFLAGS += -DOS_LINUX
++   # Several globals are defined twice, which needs -fcommon since GCC 10
++   CFLAGS   += -fcommon
++   CXXFLAGS += -fcommon
+    ifeq ($(ARCH), x86_64)
+       ASFLAGS = -f elf64 -d ELF_TYPE
+    else
+-- 
+2.55.0
+
