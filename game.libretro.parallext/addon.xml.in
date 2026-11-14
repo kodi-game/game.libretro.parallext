@@ -8,11 +8,13 @@
 	</requires>
 	<extension point="kodi.gameclient"
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
-		<platforms></platforms>
+		<platforms>Nintendo - Nintendo 64</platforms>
 		<extensions>n64|v64|z64|bin|u1|ndd</extensions>
 		<supports_vfs>true</supports_vfs>
 		<supports_standalone>false</supports_standalone>
-		<requires_opengl>true</requires_opengl>
+		<supports_disc_control>false</supports_disc_control>
+		<libretro_core>parallel_n64_libretro</libretro_core>
+		<savestate_features>serialized</savestate_features>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<license>GPLv2</license>
