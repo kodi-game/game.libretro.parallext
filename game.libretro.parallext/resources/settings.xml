@@ -743,7 +743,7 @@
 				</setting>
 				<setting id="mupen64plus-astick-deadzone" type="string" label="30048">
 					<level>0</level>
-					<default>15</default>
+					<default>0</default>
 					<constraints>
 						<options>
 							<option>15</option>
